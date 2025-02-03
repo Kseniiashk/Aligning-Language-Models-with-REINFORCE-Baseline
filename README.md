@@ -1,4 +1,4 @@
-# Aligning-Language-Models-with-REINFORCE-Baseline-from-Scratch
+# Aligning-Language-Models-with-REINFORCE-Baseline
 
 Ответ на На данном этапе НЕ рекомендуется использовать RLOOTrainer из. библиотеки trl, так как реализация в нём отличается от алгоритма, описанного в статье (Bonus: в отчёте опишите почему именно) ?
 
